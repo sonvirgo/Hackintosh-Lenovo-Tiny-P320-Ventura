@@ -1,4 +1,6 @@
 # Hackintosh-Lenovo-Tiny-P320-Ventura
+![image](https://github.com/user-attachments/assets/e5119873-8d99-4898-a025-98397b177093)
+
 ![image](https://github.com/user-attachments/assets/d493f8e9-e915-4f9d-a25d-9d3859c6fcae)
 
 ![451084994_1252187692412437_102729272265669256_n](https://github.com/user-attachments/assets/8d02b638-d18c-4122-8d03-aacc8186cfcd)
